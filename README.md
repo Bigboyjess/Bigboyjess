@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Jesse Kremling, I am a infomation systems student at Texas A&M University–Corpus Christi.
+My name is Jesse Kremling, I am an information systems student at Texas A&M University–Corpus Christi.
 
 I’m currently working on my data analytics/engineering skills and uploading my personal projects here along the way.
 ___
