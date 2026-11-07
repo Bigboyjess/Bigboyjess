@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+My name is Jesse Kremling, I am a infomation systems student at Texas A&M University–Corpus Christi.
+I’m currently working on my data analytics/engineering skills and uploading my personal projects here along the way.
+___
+Reach me: 
+https://www.linkedin.com/in/jesse-kremling-8b9b1b385/
+https://app.joinhandshake.com/profiles/mxt2xb
 <!--
 **Bigboyjess/Bigboyjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
